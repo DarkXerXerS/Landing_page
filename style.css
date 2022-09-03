@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.section1 {
+    background-color: hsl(193, 100%, 96%);
+    background-image: url(./images/bg-hero-mobile.svg);
+    background-size: cover;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 28px;
+}
+
+nav button {
+    color: hsl(192, 100%, 9%);
+    width: 30%;
+    height: 30px;
+    border-radius: 30px;
+    border: none;
+    background-color: white;
+
+}

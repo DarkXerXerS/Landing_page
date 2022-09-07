@@ -48,7 +48,6 @@ article p {
     display: flex;
     flex-direction: column;
     gap: .3rem;
-    /* color: hsl(192, 100%, 9%) */
 }
 
 article p span {
@@ -61,5 +60,16 @@ article p span {
     display: flex;
     align-items: center;
     justify-content: center;
+    padding: 30px;
+}
+
+.btn button {
+    width: 260px;
+    height: 40px;
+    background-color:  hsl(322, 100%, 66%);
+    border: none;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    border-radius: 20px;
 }
 

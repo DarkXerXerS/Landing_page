@@ -71,6 +71,7 @@ article.container1 p span {
     color: white;
     font-family: 'Poppins', sans-serif;
     border-radius: 20px;
+    box-shadow: 2px 1px 2px 1px hsl(216, 3%, 71%);
 }
 
 .section2 {
@@ -102,3 +103,33 @@ article.container1 p span {
 }
 
 
+.section3 {
+    padding: 20px;
+}
+
+.container3 {
+    padding: 25px;
+    background-color: white;
+    margin-top: 40px;
+    box-shadow: 2px 2px 2px 3px rgba(124, 122, 122, 0.25);
+    border-radius: 10px;
+}
+
+.container3 h2 {
+    font-size: 15px;
+    color: hsl(192, 100%, 9%);
+    font-family: 'Poppins', sans-serif;
+    padding: 15px;
+}
+
+.container3 button {
+
+    width: 260px;
+    height: 40px;
+    background-color:  hsl(322, 100%, 66%);
+    border: none;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    border-radius: 20px;
+    box-shadow: 2px 1px 2px 1px hsl(216, 3%, 71%);
+}

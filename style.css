@@ -33,7 +33,7 @@ article {
     text-align: center;
     display: flex;
     flex-direction: column;
-    padding: 52px;
+    padding: 32px;
 }
 
 article h3 {
@@ -41,7 +41,25 @@ article h3 {
     color: hsl(192, 100%, 9%);
     padding: 20px;
     font-size: 25px;
-    /* font-family: 'Open Sans', sans-serif; */
+}
 
+article p {
+    font-family: 'Open Sans', sans-serif; 
+    display: flex;
+    flex-direction: column;
+    gap: .3rem;
+    /* color: hsl(192, 100%, 9%) */
+}
+
+article p span {
+    display: block;
+    color: hsl(192, 100%, 9%)
+
+}
+
+.btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 

@@ -102,7 +102,7 @@ article.container1 p span {
 
 .section3 {
   padding: 20px;
-  transform: translate(20px 10px);
+  transform: translate(0px, 94px);
 }
 
 .container3 {
@@ -134,6 +134,9 @@ article.container1 p span {
 footer {
   background: hsl(192, 100%, 9%);
   padding: 30px;
+}
+figure {
+    padding-top: 100px;
 }
 
 .footer {

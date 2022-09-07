@@ -80,8 +80,9 @@ article.container1 p span {
 
 .container2 {
     padding: 25px;
-    background-color: rgb(255, 247, 247);
+    background-color: white;
     margin-top: 10px;
-    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    box-shadow: 2px 2px 2px 2px rgba(124, 122, 122, 0.25);
+    border-radius: 10px;
 }
 

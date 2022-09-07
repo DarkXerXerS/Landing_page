@@ -133,3 +133,7 @@ article.container1 p span {
     border-radius: 20px;
     box-shadow: 2px 1px 2px 1px hsl(216, 3%, 71%);
 }
+
+footer {
+    background: hsl(192, 100%, 9%);
+}

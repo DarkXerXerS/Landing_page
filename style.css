@@ -36,21 +36,21 @@ article {
     padding: 32px;
 }
 
-article h3 {
+article.container1 h3 {
     font-family: 'Poppins', sans-serif;
     color: hsl(192, 100%, 9%);
     padding: 20px;
     font-size: 25px;
 }
 
-article p {
+article.container1 p {
     font-family: 'Open Sans', sans-serif; 
     display: flex;
     flex-direction: column;
     gap: .3rem;
 }
 
-article p span {
+article.container1 p span {
     display: block;
     color: hsl(192, 100%, 9%)
 
